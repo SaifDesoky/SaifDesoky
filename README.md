@@ -67,6 +67,7 @@
   <a href="www.linkedin.com/in/saif-desoky-1130512b3"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
  <!-- <a href="YOUR_PORTFOLIO"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/></a> -->
   <a href="https://emperorreads.blogspot.com/"><img src="https://img.shields.io/badge/Blog-Emperor%20Reads-FF6F61?style=for-the-badge&logo=blogger&logoColor=white"/></a>
+   <a href="https://www.instagram.com/saif._.desoky"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
 </p>
 
 
